@@ -33,7 +33,7 @@ export const WithStyledComponents = ({
   );
 };
 
-export const StyledTitle = styled.h3`
+export const StyledTitle = styled.div`
   font-family: sans-serif;
   font-weight: 300;
   font-size: 2.5em;
