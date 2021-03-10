@@ -37,5 +37,6 @@ export const StyledTitle = styled.div`
   font-family: sans-serif;
   font-weight: 300;
   font-size: 2.5em;
-  color: darkgray;
+  background-color: red;
+  color:yellow;
 `;
